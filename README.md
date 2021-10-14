@@ -4,6 +4,8 @@
 - 💞️ I’m looking to collaborate on ... nothing at the moment. Maybe later!
 - 📫 How to reach me ... not sure if there is any DM feature on GitHub, but try to contact me somehow! I'll count this as a challenge.
 
+https://user-images.githubusercontent.com/92426549/137309723-ceb22ba9-9c39-4af1-bc74-25a14d111a44.mp4
+
 <!---
 crimscode/crimscode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
