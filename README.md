@@ -1,8 +1,11 @@
 i like, do stuff.
 
 -avid learner of C# (for Unity Game Development),
+
 -i have decent knowledge of HTML and CSS, and very basic knowledge of JavaScript,
+
 -avid shitposter,
+
 -avid pro gamer.
 
 ![doometernal](https://user-images.githubusercontent.com/92426549/179357773-8671ae92-e830-444c-a9c7-8554494f660c.png)
