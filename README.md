@@ -2,7 +2,7 @@ i like, do stuff.
 
 🖥️ // avid learner of C# (for Unity Game Development),
 
-👨‍💻 // i have decent knowledge of HTML and CSS, and very basic knowledge of JavaScript,
+👨‍💻 // i have decent knowledge of HTML and CSS, and essentially what could be interpreted as one gram of JavaScript knowledge,
 
 😐 // avid shitposter,
 
