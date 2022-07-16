@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @crimscode, professional coder and mspaint artist.
-- 👀 I’m interested in ... coding, art and making video content (video editing).
-- 🌱 I’m currently learning ... all stuff HTML5, CSS3 and soon JavaScript.
-- 💞️ I’m looking to collaborate on ... nothing at the moment. Maybe later!
-- 📫 How to reach me ... not sure if there is any DM feature on GitHub, but try to contact me somehow! I'll count this as a challenge.
+i like, do stuff.
+
+-avid learner of C# (for Unity Game Development),
+-i have decent knowledge of HTML and CSS, and very basic knowledge of JavaScript,
+-avid shitposter,
+-avid pro gamer.
+
+![doometernal](https://user-images.githubusercontent.com/92426549/179357773-8671ae92-e830-444c-a9c7-8554494f660c.png)
 
 https://user-images.githubusercontent.com/92426549/137309723-ceb22ba9-9c39-4af1-bc74-25a14d111a44.mp4
 
