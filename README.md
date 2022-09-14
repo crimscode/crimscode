@@ -1,16 +1,16 @@
-i like, do stuff.
+i like the program :))) 😎 also:
 
-🖥️ // avid learner of C# (for Unity Game Development),
+=> Programming C# since tommorrow;
 
-👨‍💻 // i have decent knowledge of HTML and CSS, and essentially what could be interpreted as 2.3 grams of JavaScript knowledge,
+=> I am quite a distinguished individual;
 
-😐 // avid shitposter,
+=> I like making funny games with 5 million secrets/lore stuff;
 
-🕹️ // avid pro gamer.
+=> All of my repositories for Unity C# are private, but most HTML/CSS repositories aren't;
 
-![doometernal](https://user-images.githubusercontent.com/92426549/179357773-8671ae92-e830-444c-a9c7-8554494f660c.png)
+thanks for watching
 
-https://user-images.githubusercontent.com/92426549/137309723-ceb22ba9-9c39-4af1-bc74-25a14d111a44.mp4
+[![PiXS49.th.png](https://iili.io/PiXS49.th.png)](https://freeimage.host/i/PiXS49)
 
 <!---
 crimscode/crimscode is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
